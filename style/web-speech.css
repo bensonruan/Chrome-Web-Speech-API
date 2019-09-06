@@ -1,0 +1,47 @@
+.final {
+  color: black;
+  padding-right: 3px; 
+}
+.interim {
+  color: gray;
+}
+#results {
+  font-size: 14px;
+  font-weight: bold;
+  border: 1px solid #ddd;
+  padding: 15px;
+  text-align: left;
+  min-height: 150px;
+  margin: 0 0 20px 0;
+}
+#start_button {
+  border: 0;
+  background-color:transparent;
+  padding: 0;
+}
+#start_img {
+  width: 50px;
+  height: 50px;
+}
+
+.btn-primary {
+  width: 100px;
+  margin: auto;
+}
+
+select {
+  padding: 5px 5px;
+}
+
+@media screen and (max-width: 767px) {
+    #select_dialect {
+      position: absolute;
+      right: 0;
+    } 
+}
+
+@media screen and (min-width: 768px) {
+  select {
+    margin-right: 10px;
+  }
+}
