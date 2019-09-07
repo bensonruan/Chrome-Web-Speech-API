@@ -1,6 +1,11 @@
 # Chrome Web Speech API
  Voice to Text with Google Chrome Web Speech API 
  
+ 
+## Live Demo
+**[https://bensonruan.com/voice-to-text-with-chrome-web-speech-api/](https://bensonruan.com/voice-to-text-with-chrome-web-speech-api/)**
+ 
+ 
 ## Installing
 Clone this repository to your local computer
 ``` bash
