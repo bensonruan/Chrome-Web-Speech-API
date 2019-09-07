@@ -1,3 +1,8 @@
+#info a {
+  color: darkred;
+  text-decoration: underline;
+}
+
 .final {
   color: black;
   padding-right: 3px; 
@@ -18,6 +23,7 @@
   border: 0;
   background-color:transparent;
   padding: 0;
+  cursor: pointer;
 }
 #start_img {
   width: 50px;
