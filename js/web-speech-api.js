@@ -27,7 +27,7 @@ var messages = {
       msg: 'Stop listening, click on the microphone icon to restart',
       class: 'alert-success'},
   "copy": {
-    msg: 'Contenet copy to clipboard successfully.',
+    msg: 'Content copy to clipboard successfully.',
     class: 'alert-success'},
 }
 
